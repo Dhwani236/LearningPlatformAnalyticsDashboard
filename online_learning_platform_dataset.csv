@@ -1,0 +1,501 @@
+Student_ID,Age,Gender,City,Course_Category,Course_Difficulty,Hours_Spent_Per_Week,Videos_Watched,Assignments_Submitted,Quiz_Score,Completion_Status,Rating_Given,Subscription_Type
+2001,24,Male,Nadiad,Artificial Intelligence,Beginner,6,42,5,62,In Progress,4,Free
+2002,37,Female,Rajkot,Cybersecurity,Beginner,3,18,1,67,In Progress,3,Free
+2003,32,Male,Ahmedabad,Cloud Computing,Beginner,3,12,1,63,Completed,3,Free
+2004,28,Female,Vadodara,Artificial Intelligence,Beginner,5,39,4,71,In Progress,3,Free
+2005,25,Male,Bhavnagar,Cybersecurity,Intermediate,11,77,6,93,Completed,3,Paid
+2006,38,Male,Vadodara,Artificial Intelligence,Beginner,7,53,6,71,Completed,4,Paid
+2007,24,Male,Mehsana,Cloud Computing,Advanced,16,92,8,80,In Progress,1,Paid
+2008,43,Female,Patan,Web Development,Beginner,7,48,3,70,Completed,5,Paid
+2009,36,Male,Morbi,Cloud Computing,Beginner,3,13,0,73,In Progress,3,Free
+2010,40,Female,Junagadh,Data Science,Beginner,4,29,1,74,In Progress,1,Free
+2011,28,Male,Mehsana,Artificial Intelligence,Beginner,6,39,4,77,In Progress,4,Free
+2012,28,Male,Anand,Web Development,Advanced,16,96,10,85,Completed,4,Paid
+2013,41,Female,Vapi,Artificial Intelligence,Intermediate,9,69,3,85,Completed,4,Free
+2014,38,Female,Mehsana,Artificial Intelligence,Intermediate,6,33,4,81,In Progress,3,Free
+2015,21,Female,Jamnagar,Cybersecurity,Intermediate,5,27,1,63,Completed,3,Free
+2016,25,Female,Patan,Data Science,Beginner,5,35,3,69,In Progress,2,Free
+2017,41,Female,Nadiad,Artificial Intelligence,Intermediate,11,70,9,100,In Progress,4,Paid
+2018,20,Male,Ahmedabad,Cloud Computing,Beginner,6,37,4,64,Completed,4,Paid
+2019,39,Male,Junagadh,Cloud Computing,Intermediate,5,32,2,52,In Progress,4,Free
+2020,38,Female,Vapi,Cybersecurity,Beginner,4,31,3,81,In Progress,4,Paid
+2021,19,Male,Vadodara,Data Science,Beginner,5,32,4,81,In Progress,3,Paid
+2022,41,Male,Bhavnagar,Data Science,Beginner,4,19,1,63,In Progress,2,Free
+2023,29,Male,Nadiad,Cloud Computing,Beginner,4,18,1,66,Completed,3,Free
+2024,23,Female,Rajkot,Web Development,Beginner,5,29,4,57,In Progress,3,Free
+2025,19,Male,Nadiad,Cybersecurity,Beginner,4,24,2,68,Completed,5,Free
+2026,38,Male,Bhavnagar,Cybersecurity,Advanced,8,45,6,87,In Progress,1,Paid
+2027,18,Male,Bhavnagar,Cloud Computing,Beginner,5,27,2,64,In Progress,3,Free
+2028,29,Female,Jamnagar,Cloud Computing,Beginner,5,37,3,78,In Progress,4,Paid
+2029,43,Male,Porbandar,Web Development,Intermediate,8,46,2,80,In Progress,4,Free
+2030,39,Male,Nadiad,Web Development,Advanced,10,48,3,85,Completed,4,Free
+2031,29,Female,Mehsana,Data Science,Beginner,3,12,1,61,In Progress,2,Free
+2032,42,Female,Nadiad,Cybersecurity,Intermediate,11,58,5,78,In Progress,1,Free
+2033,34,Male,Patan,Cybersecurity,Intermediate,8,41,4,57,Completed,4,Free
+2034,44,Male,Patan,Cloud Computing,Beginner,7,30,1,68,In Progress,4,Paid
+2035,44,Female,Morbi,Data Science,Advanced,15,73,9,100,Completed,3,Free
+2036,27,Female,Jamnagar,Cybersecurity,Advanced,8,43,5,66,In Progress,1,Paid
+2037,33,Female,Gandhinagar,Data Science,Beginner,3,14,2,58,In Progress,2,Free
+2038,32,Female,Gandhinagar,Data Science,Beginner,7,44,2,80,In Progress,4,Free
+2039,32,Female,Morbi,Cloud Computing,Advanced,13,85,4,90,Completed,3,Free
+2040,36,Female,Anand,Data Science,Intermediate,6,35,3,78,In Progress,4,Free
+2041,29,Female,Gandhinagar,Web Development,Intermediate,8,39,2,64,In Progress,4,Free
+2042,40,Male,Patan,Web Development,Intermediate,6,39,2,97,In Progress,4,Free
+2043,37,Female,Morbi,Artificial Intelligence,Intermediate,9,65,7,65,Completed,4,Free
+2044,42,Female,Surat,Cloud Computing,Advanced,8,38,4,77,Completed,5,Free
+2045,20,Male,Porbandar,Artificial Intelligence,Advanced,14,86,11,86,Completed,5,Free
+2046,22,Female,Porbandar,Web Development,Advanced,8,44,3,64,In Progress,1,Free
+2047,36,Female,Mehsana,Artificial Intelligence,Intermediate,8,42,4,72,In Progress,4,Paid
+2048,24,Male,Nadiad,Cloud Computing,Advanced,16,76,10,92,Completed,4,Paid
+2049,38,Female,Mehsana,Cloud Computing,Intermediate,5,25,1,63,In Progress,4,Free
+2050,26,Male,Morbi,Data Science,Intermediate,8,45,3,85,In Progress,4,Free
+2051,24,Male,Vapi,Cybersecurity,Beginner,6,27,2,70,In Progress,2,Paid
+2052,35,Male,Ahmedabad,Data Science,Advanced,15,108,14,76,Completed,5,Paid
+2053,21,Male,Nadiad,Cloud Computing,Advanced,8,62,3,61,Completed,5,Free
+2054,42,Female,Surat,Web Development,Intermediate,11,81,9,88,Completed,4,Paid
+2055,31,Male,Surat,Web Development,Advanced,8,40,2,61,Completed,3,Free
+2056,35,Male,Mehsana,Data Science,Intermediate,9,36,3,81,In Progress,3,Free
+2057,43,Female,Vadodara,Cloud Computing,Beginner,5,23,1,74,In Progress,1,Paid
+2058,26,Male,Nadiad,Web Development,Beginner,5,37,5,60,In Progress,1,Free
+2059,43,Male,Junagadh,Cloud Computing,Beginner,5,29,3,78,In Progress,3,Paid
+2060,38,Male,Surat,Web Development,Beginner,7,40,2,56,In Progress,4,Paid
+2061,19,Male,Porbandar,Cloud Computing,Beginner,3,13,1,68,In Progress,1,Free
+2062,37,Female,Ahmedabad,Artificial Intelligence,Intermediate,9,44,4,77,In Progress,1,Free
+2063,32,Male,Porbandar,Cloud Computing,Beginner,7,31,3,72,In Progress,2,Free
+2064,24,Female,Jamnagar,Cloud Computing,Intermediate,10,50,5,68,In Progress,4,Free
+2065,29,Female,Anand,Data Science,Beginner,5,22,1,60,Completed,3,Paid
+2066,25,Male,Vapi,Artificial Intelligence,Intermediate,6,40,3,88,In Progress,2,Free
+2067,32,Male,Vadodara,Cybersecurity,Beginner,3,22,2,78,In Progress,4,Free
+2068,20,Male,Jamnagar,Data Science,Beginner,5,22,2,77,In Progress,3,Paid
+2069,31,Male,Vadodara,Cybersecurity,Intermediate,11,55,5,91,Completed,5,Free
+2070,34,Female,Porbandar,Web Development,Intermediate,6,25,2,80,In Progress,2,Paid
+2071,21,Female,Patan,Cybersecurity,Beginner,4,26,3,64,In Progress,3,Free
+2072,35,Female,Ahmedabad,Cloud Computing,Advanced,13,81,6,86,Completed,3,Paid
+2073,25,Male,Porbandar,Cybersecurity,Beginner,6,37,3,57,In Progress,4,Free
+2074,21,Female,Patan,Data Science,Beginner,3,19,1,65,In Progress,1,Free
+2075,19,Male,Mehsana,Data Science,Advanced,9,44,2,89,In Progress,1,Free
+2076,23,Male,Bhavnagar,Cybersecurity,Intermediate,10,53,5,73,Completed,5,Free
+2077,39,Male,Nadiad,Data Science,Beginner,5,26,2,80,In Progress,1,Paid
+2078,27,Male,Porbandar,Data Science,Intermediate,11,76,8,82,In Progress,3,Paid
+2079,21,Male,Patan,Cybersecurity,Intermediate,8,32,2,62,In Progress,4,Paid
+2080,39,Female,Morbi,Artificial Intelligence,Intermediate,5,37,2,58,Completed,3,Free
+2081,35,Female,Rajkot,Artificial Intelligence,Beginner,7,29,2,83,In Progress,2,Free
+2082,43,Male,Junagadh,Web Development,Beginner,5,27,2,75,In Progress,3,Free
+2083,29,Female,Jamnagar,Data Science,Intermediate,6,46,6,73,In Progress,3,Free
+2084,19,Male,Nadiad,Cybersecurity,Advanced,17,121,8,91,In Progress,1,Paid
+2085,27,Male,Junagadh,Data Science,Intermediate,7,55,6,76,Completed,5,Free
+2086,21,Male,Bhavnagar,Cloud Computing,Beginner,4,20,2,76,In Progress,3,Free
+2087,31,Female,Vapi,Data Science,Intermediate,8,44,4,90,Completed,4,Free
+2088,33,Male,Vapi,Data Science,Intermediate,5,35,2,85,In Progress,2,Paid
+2089,32,Male,Rajkot,Artificial Intelligence,Beginner,6,28,1,75,Completed,3,Paid
+2090,25,Female,Junagadh,Cybersecurity,Beginner,4,24,1,66,In Progress,2,Paid
+2091,31,Female,Junagadh,Data Science,Intermediate,11,72,6,83,In Progress,1,Free
+2092,40,Female,Jamnagar,Artificial Intelligence,Intermediate,9,56,3,83,In Progress,4,Free
+2093,42,Male,Gandhinagar,Web Development,Beginner,3,18,1,71,Completed,3,Paid
+2094,25,Male,Rajkot,Artificial Intelligence,Beginner,3,23,2,79,In Progress,4,Paid
+2095,38,Female,Nadiad,Artificial Intelligence,Beginner,5,20,1,91,Completed,3,Free
+2096,33,Male,Bhavnagar,Artificial Intelligence,Beginner,5,37,3,67,In Progress,3,Paid
+2097,30,Female,Rajkot,Data Science,Advanced,15,104,9,100,In Progress,2,Paid
+2098,35,Female,Mehsana,Data Science,Advanced,13,84,11,97,Completed,3,Paid
+2099,32,Male,Ahmedabad,Web Development,Beginner,3,20,1,64,In Progress,2,Paid
+2100,38,Male,Mehsana,Cloud Computing,Advanced,12,82,5,98,In Progress,1,Free
+2101,41,Female,Gandhinagar,Cloud Computing,Intermediate,7,41,5,90,Completed,4,Free
+2102,43,Female,Ahmedabad,Cloud Computing,Intermediate,7,39,5,69,In Progress,2,Free
+2103,42,Female,Bhavnagar,Web Development,Intermediate,5,20,1,87,In Progress,1,Paid
+2104,30,Female,Vapi,Cloud Computing,Beginner,6,41,3,82,In Progress,4,Paid
+2105,26,Male,Jamnagar,Cloud Computing,Beginner,4,25,1,91,Completed,5,Paid
+2106,32,Female,Jamnagar,Artificial Intelligence,Intermediate,7,51,2,69,In Progress,2,Free
+2107,30,Female,Patan,Data Science,Intermediate,10,67,8,76,Completed,5,Paid
+2108,18,Female,Bhavnagar,Data Science,Beginner,5,24,1,49,In Progress,3,Paid
+2109,42,Male,Vadodara,Artificial Intelligence,Advanced,11,64,5,87,In Progress,1,Paid
+2110,24,Male,Vapi,Artificial Intelligence,Intermediate,8,46,6,79,In Progress,1,Paid
+2111,26,Female,Bhavnagar,Artificial Intelligence,Beginner,7,55,4,68,Completed,3,Paid
+2112,41,Male,Mehsana,Data Science,Advanced,13,87,7,85,Completed,4,Free
+2113,18,Male,Gandhinagar,Cloud Computing,Advanced,12,50,5,70,In Progress,1,Free
+2114,29,Male,Porbandar,Artificial Intelligence,Advanced,14,69,8,99,Completed,3,Free
+2115,25,Female,Surat,Web Development,Beginner,4,17,2,63,In Progress,2,Free
+2116,41,Female,Jamnagar,Artificial Intelligence,Intermediate,11,66,9,100,Completed,4,Paid
+2117,28,Male,Anand,Cybersecurity,Intermediate,6,46,3,70,Completed,3,Paid
+2118,36,Female,Gandhinagar,Artificial Intelligence,Intermediate,11,62,8,74,Completed,3,Free
+2119,34,Female,Porbandar,Data Science,Advanced,8,57,5,71,Completed,3,Free
+2120,25,Male,Morbi,Artificial Intelligence,Intermediate,11,80,6,67,In Progress,4,Paid
+2121,20,Male,Gandhinagar,Cybersecurity,Advanced,12,91,8,88,Completed,3,Free
+2122,20,Female,Gandhinagar,Web Development,Advanced,10,52,2,75,In Progress,4,Free
+2123,18,Male,Vapi,Cloud Computing,Advanced,10,67,4,91,Completed,5,Free
+2124,44,Female,Patan,Artificial Intelligence,Beginner,6,31,2,69,Completed,5,Free
+2125,22,Female,Junagadh,Cybersecurity,Beginner,7,48,3,87,In Progress,1,Free
+2126,27,Male,Gandhinagar,Cybersecurity,Beginner,6,45,3,79,Completed,5,Free
+2127,24,Female,Patan,Web Development,Advanced,9,54,3,78,In Progress,4,Free
+2128,43,Female,Jamnagar,Data Science,Beginner,4,25,2,83,In Progress,2,Paid
+2129,26,Male,Surat,Artificial Intelligence,Intermediate,5,28,2,79,In Progress,3,Free
+2130,24,Male,Surat,Cybersecurity,Beginner,7,44,2,100,In Progress,3,Paid
+2131,26,Male,Gandhinagar,Web Development,Intermediate,8,37,2,71,In Progress,1,Free
+2132,25,Female,Morbi,Cloud Computing,Advanced,17,117,7,94,In Progress,4,Free
+2133,29,Male,Ahmedabad,Cybersecurity,Advanced,9,47,6,93,In Progress,3,Paid
+2134,19,Male,Jamnagar,Web Development,Beginner,5,31,3,54,Completed,5,Free
+2135,18,Male,Patan,Data Science,Advanced,14,73,4,100,In Progress,3,Free
+2136,33,Male,Jamnagar,Data Science,Intermediate,11,64,9,86,Completed,5,Free
+2137,40,Female,Morbi,Cybersecurity,Beginner,6,26,3,63,Completed,4,Paid
+2138,40,Female,Rajkot,Cybersecurity,Intermediate,8,59,8,62,In Progress,4,Free
+2139,41,Male,Mehsana,Artificial Intelligence,Intermediate,9,64,5,71,In Progress,1,Free
+2140,22,Female,Morbi,Web Development,Beginner,7,50,5,51,In Progress,1,Paid
+2141,20,Male,Patan,Cybersecurity,Intermediate,10,40,5,75,In Progress,2,Free
+2142,29,Male,Vapi,Artificial Intelligence,Beginner,3,15,1,72,In Progress,4,Paid
+2143,25,Female,Morbi,Artificial Intelligence,Beginner,4,29,4,63,Completed,5,Paid
+2144,39,Female,Patan,Cybersecurity,Beginner,7,31,4,87,Completed,4,Paid
+2145,44,Male,Nadiad,Data Science,Beginner,6,35,2,88,In Progress,4,Free
+2146,20,Male,Vadodara,Web Development,Beginner,5,38,4,82,In Progress,3,Paid
+2147,18,Female,Patan,Web Development,Intermediate,8,44,3,78,In Progress,2,Free
+2148,20,Male,Morbi,Data Science,Intermediate,6,27,3,48,In Progress,4,Free
+2149,22,Female,Vadodara,Cybersecurity,Intermediate,10,65,7,72,Completed,3,Free
+2150,32,Male,Vapi,Web Development,Advanced,15,97,13,88,Completed,3,Paid
+2151,31,Male,Vapi,Cybersecurity,Intermediate,5,36,5,61,In Progress,4,Free
+2152,20,Female,Patan,Cybersecurity,Intermediate,6,36,4,70,Completed,3,Free
+2153,18,Female,Patan,Artificial Intelligence,Beginner,5,30,4,86,In Progress,4,Free
+2154,22,Female,Ahmedabad,Data Science,Beginner,3,13,0,49,In Progress,3,Paid
+2155,43,Female,Vadodara,Cybersecurity,Intermediate,6,45,3,90,Completed,5,Paid
+2156,40,Female,Rajkot,Cloud Computing,Beginner,5,34,4,78,In Progress,2,Paid
+2157,31,Female,Morbi,Data Science,Intermediate,5,28,3,72,In Progress,4,Free
+2158,24,Female,Morbi,Web Development,Beginner,3,13,1,58,Completed,4,Free
+2159,44,Male,Bhavnagar,Artificial Intelligence,Advanced,15,85,8,81,In Progress,1,Paid
+2160,26,Male,Vadodara,Web Development,Advanced,9,37,5,61,Completed,5,Free
+2161,32,Male,Jamnagar,Web Development,Intermediate,9,37,3,95,In Progress,4,Free
+2162,32,Female,Morbi,Data Science,Beginner,3,13,0,81,In Progress,2,Paid
+2163,43,Female,Porbandar,Web Development,Beginner,3,17,1,51,Completed,5,Paid
+2164,27,Female,Vapi,Cybersecurity,Advanced,13,67,9,80,Completed,5,Paid
+2165,30,Male,Mehsana,Web Development,Advanced,13,72,8,90,In Progress,1,Paid
+2166,36,Female,Bhavnagar,Artificial Intelligence,Beginner,5,26,2,67,In Progress,1,Paid
+2167,24,Female,Vadodara,Artificial Intelligence,Intermediate,10,59,5,60,In Progress,3,Free
+2168,34,Male,Jamnagar,Cloud Computing,Beginner,6,36,2,65,Completed,5,Free
+2169,37,Female,Jamnagar,Artificial Intelligence,Beginner,4,24,2,87,In Progress,4,Paid
+2170,21,Male,Vapi,Web Development,Beginner,4,26,1,62,In Progress,3,Free
+2171,22,Male,Porbandar,Artificial Intelligence,Beginner,7,53,5,72,In Progress,4,Paid
+2172,40,Female,Gandhinagar,Data Science,Advanced,9,43,5,66,Completed,5,Free
+2173,24,Female,Surat,Artificial Intelligence,Intermediate,11,84,7,87,Completed,3,Free
+2174,30,Female,Ahmedabad,Cybersecurity,Beginner,7,40,3,75,In Progress,4,Paid
+2175,32,Male,Rajkot,Data Science,Intermediate,7,37,2,66,In Progress,2,Paid
+2176,28,Male,Junagadh,Cloud Computing,Advanced,13,56,6,72,In Progress,1,Paid
+2177,21,Male,Vapi,Cybersecurity,Advanced,9,43,2,92,Completed,4,Free
+2178,30,Female,Morbi,Web Development,Beginner,7,44,3,57,In Progress,4,Paid
+2179,24,Female,Nadiad,Web Development,Beginner,4,20,2,73,In Progress,3,Free
+2180,44,Female,Vadodara,Web Development,Beginner,6,28,2,50,Completed,4,Free
+2181,36,Female,Vadodara,Cybersecurity,Beginner,3,23,2,73,In Progress,1,Free
+2182,39,Male,Bhavnagar,Cybersecurity,Beginner,4,23,3,77,In Progress,1,Free
+2183,19,Male,Bhavnagar,Cybersecurity,Intermediate,5,30,3,80,Completed,5,Free
+2184,27,Male,Patan,Data Science,Beginner,7,40,5,72,In Progress,1,Paid
+2185,30,Male,Nadiad,Data Science,Beginner,3,15,1,81,In Progress,4,Paid
+2186,42,Female,Vadodara,Web Development,Beginner,4,31,4,91,In Progress,4,Paid
+2187,38,Female,Anand,Artificial Intelligence,Beginner,6,28,2,68,Completed,5,Free
+2188,23,Female,Rajkot,Web Development,Beginner,7,47,5,69,In Progress,1,Paid
+2189,29,Male,Patan,Cloud Computing,Intermediate,6,34,2,73,In Progress,1,Paid
+2190,29,Male,Patan,Data Science,Beginner,7,34,3,69,Completed,5,Paid
+2191,37,Female,Vapi,Cybersecurity,Beginner,5,22,1,63,In Progress,2,Free
+2192,28,Female,Vadodara,Data Science,Beginner,3,14,0,60,In Progress,1,Free
+2193,43,Male,Morbi,Cybersecurity,Intermediate,11,69,5,99,In Progress,2,Free
+2194,40,Female,Surat,Cloud Computing,Beginner,5,39,5,77,In Progress,1,Free
+2195,42,Male,Nadiad,Cloud Computing,Beginner,4,28,3,63,In Progress,1,Free
+2196,24,Male,Patan,Data Science,Beginner,6,33,1,47,In Progress,1,Paid
+2197,18,Male,Morbi,Cybersecurity,Advanced,16,96,14,76,Completed,3,Free
+2198,18,Female,Anand,Cloud Computing,Beginner,7,54,6,79,In Progress,4,Free
+2199,42,Female,Rajkot,Web Development,Intermediate,11,76,7,60,In Progress,2,Free
+2200,44,Male,Vadodara,Web Development,Advanced,17,114,15,96,Completed,4,Free
+2201,42,Female,Junagadh,Cybersecurity,Beginner,7,35,3,63,In Progress,1,Free
+2202,37,Male,Gandhinagar,Data Science,Advanced,8,43,2,76,In Progress,1,Free
+2203,30,Male,Morbi,Cloud Computing,Intermediate,6,38,4,72,In Progress,2,Free
+2204,26,Male,Porbandar,Data Science,Beginner,7,32,3,75,In Progress,4,Paid
+2205,20,Male,Surat,Web Development,Beginner,6,34,2,68,In Progress,3,Paid
+2206,24,Female,Junagadh,Cloud Computing,Intermediate,10,58,5,75,In Progress,3,Free
+2207,23,Male,Mehsana,Data Science,Intermediate,6,38,5,64,Completed,4,Free
+2208,25,Male,Bhavnagar,Artificial Intelligence,Advanced,9,63,6,82,Completed,3,Paid
+2209,44,Female,Vapi,Cybersecurity,Beginner,6,42,2,80,In Progress,1,Free
+2210,26,Male,Morbi,Cybersecurity,Intermediate,10,45,2,67,Completed,5,Free
+2211,22,Male,Bhavnagar,Artificial Intelligence,Beginner,5,26,1,69,Completed,5,Paid
+2212,18,Female,Vadodara,Web Development,Advanced,8,37,2,77,Completed,4,Free
+2213,36,Female,Bhavnagar,Cloud Computing,Intermediate,7,29,4,75,Completed,5,Paid
+2214,27,Female,Mehsana,Cybersecurity,Beginner,7,41,5,75,Completed,4,Free
+2215,29,Male,Surat,Artificial Intelligence,Beginner,6,25,3,67,In Progress,3,Free
+2216,41,Female,Rajkot,Artificial Intelligence,Beginner,5,20,2,72,Completed,5,Free
+2217,32,Female,Jamnagar,Web Development,Beginner,4,24,1,74,In Progress,4,Paid
+2218,44,Male,Ahmedabad,Web Development,Beginner,7,31,2,75,In Progress,3,Free
+2219,39,Male,Nadiad,Data Science,Intermediate,9,38,3,83,In Progress,1,Free
+2220,41,Male,Rajkot,Cybersecurity,Intermediate,7,30,2,83,Completed,3,Paid
+2221,26,Male,Jamnagar,Data Science,Intermediate,7,35,4,55,In Progress,1,Free
+2222,37,Male,Anand,Artificial Intelligence,Advanced,11,71,8,91,Completed,5,Free
+2223,34,Female,Porbandar,Cloud Computing,Intermediate,5,37,3,73,In Progress,2,Paid
+2224,34,Female,Morbi,Cloud Computing,Intermediate,7,51,6,62,In Progress,2,Free
+2225,43,Female,Morbi,Web Development,Intermediate,11,68,5,90,In Progress,2,Paid
+2226,37,Male,Patan,Cloud Computing,Beginner,5,31,4,66,Completed,4,Paid
+2227,29,Male,Surat,Cloud Computing,Beginner,4,22,1,65,In Progress,1,Paid
+2228,24,Male,Morbi,Cloud Computing,Beginner,7,49,4,68,In Progress,1,Free
+2229,19,Female,Junagadh,Artificial Intelligence,Beginner,3,13,0,69,In Progress,4,Paid
+2230,20,Female,Jamnagar,Cloud Computing,Beginner,4,28,3,60,In Progress,3,Free
+2231,34,Male,Surat,Cloud Computing,Beginner,6,46,3,81,Completed,5,Paid
+2232,22,Female,Gandhinagar,Cloud Computing,Advanced,11,80,7,80,In Progress,2,Free
+2233,34,Male,Junagadh,Data Science,Intermediate,7,42,3,70,Completed,3,Free
+2234,41,Female,Morbi,Artificial Intelligence,Beginner,5,35,2,77,Completed,4,Free
+2235,34,Female,Bhavnagar,Web Development,Beginner,6,25,3,68,Completed,5,Paid
+2236,44,Female,Mehsana,Data Science,Beginner,5,21,2,79,Completed,5,Paid
+2237,34,Male,Bhavnagar,Cybersecurity,Intermediate,5,24,2,79,In Progress,2,Free
+2238,19,Female,Junagadh,Artificial Intelligence,Intermediate,10,76,8,66,Completed,5,Free
+2239,19,Female,Anand,Artificial Intelligence,Advanced,9,55,4,89,Completed,4,Paid
+2240,39,Male,Morbi,Cybersecurity,Beginner,3,16,1,51,In Progress,1,Free
+2241,40,Female,Vapi,Cybersecurity,Advanced,17,104,7,100,In Progress,2,Free
+2242,22,Male,Anand,Cybersecurity,Advanced,9,63,6,98,In Progress,1,Paid
+2243,18,Male,Anand,Web Development,Beginner,7,28,2,82,In Progress,4,Free
+2244,18,Male,Jamnagar,Cloud Computing,Intermediate,5,26,1,48,In Progress,1,Paid
+2245,36,Male,Nadiad,Artificial Intelligence,Intermediate,5,28,2,80,Completed,5,Free
+2246,19,Male,Jamnagar,Cloud Computing,Intermediate,5,30,1,92,In Progress,3,Free
+2247,38,Female,Vadodara,Cloud Computing,Beginner,3,19,1,62,In Progress,3,Free
+2248,29,Male,Ahmedabad,Cybersecurity,Intermediate,5,27,3,69,Completed,4,Paid
+2249,43,Male,Junagadh,Web Development,Intermediate,9,48,6,66,In Progress,2,Free
+2250,23,Male,Rajkot,Data Science,Advanced,15,82,8,93,Completed,5,Paid
+2251,40,Male,Ahmedabad,Web Development,Advanced,17,124,12,100,Completed,4,Free
+2252,21,Female,Vapi,Cloud Computing,Intermediate,5,28,3,76,In Progress,3,Paid
+2253,40,Male,Gandhinagar,Web Development,Advanced,14,88,11,100,Completed,4,Free
+2254,28,Female,Mehsana,Cybersecurity,Intermediate,7,33,3,74,In Progress,1,Free
+2255,41,Male,Jamnagar,Data Science,Intermediate,7,45,3,57,In Progress,1,Paid
+2256,44,Female,Jamnagar,Cybersecurity,Intermediate,6,32,3,73,Completed,5,Free
+2257,34,Male,Surat,Data Science,Beginner,7,52,4,49,Completed,4,Free
+2258,23,Male,Vapi,Cloud Computing,Intermediate,8,40,2,70,In Progress,2,Paid
+2259,41,Female,Ahmedabad,Data Science,Intermediate,8,56,5,92,In Progress,1,Free
+2260,22,Male,Patan,Data Science,Intermediate,7,48,3,77,Completed,3,Paid
+2261,37,Female,Porbandar,Data Science,Advanced,13,82,7,87,In Progress,4,Free
+2262,19,Male,Porbandar,Web Development,Beginner,4,30,1,86,Completed,5,Paid
+2263,23,Female,Surat,Web Development,Intermediate,8,57,3,73,In Progress,1,Free
+2264,39,Male,Rajkot,Cloud Computing,Intermediate,7,55,4,86,Completed,5,Free
+2265,28,Male,Surat,Data Science,Intermediate,9,47,3,79,In Progress,1,Paid
+2266,33,Female,Ahmedabad,Artificial Intelligence,Intermediate,8,38,4,79,In Progress,1,Paid
+2267,33,Male,Junagadh,Cloud Computing,Advanced,8,47,3,63,Completed,4,Free
+2268,18,Male,Morbi,Data Science,Intermediate,9,41,5,73,In Progress,1,Free
+2269,26,Male,Morbi,Data Science,Beginner,3,15,1,52,In Progress,1,Paid
+2270,44,Male,Vapi,Web Development,Beginner,4,21,1,67,Completed,5,Free
+2271,23,Male,Mehsana,Cloud Computing,Intermediate,5,34,4,73,Completed,3,Paid
+2272,33,Male,Gandhinagar,Data Science,Beginner,3,21,2,54,Completed,5,Paid
+2273,20,Female,Jamnagar,Data Science,Beginner,6,27,3,92,Completed,3,Free
+2274,37,Female,Rajkot,Cloud Computing,Intermediate,10,71,4,82,In Progress,1,Free
+2275,44,Female,Porbandar,Artificial Intelligence,Beginner,5,36,3,70,In Progress,3,Paid
+2276,21,Male,Jamnagar,Cloud Computing,Intermediate,11,82,11,89,Completed,4,Free
+2277,36,Female,Vadodara,Cloud Computing,Intermediate,9,60,8,69,Completed,5,Free
+2278,43,Male,Mehsana,Artificial Intelligence,Intermediate,5,22,2,71,Completed,5,Paid
+2279,20,Male,Gandhinagar,Cloud Computing,Beginner,7,51,2,66,Completed,5,Free
+2280,36,Male,Nadiad,Data Science,Intermediate,10,46,6,95,In Progress,2,Paid
+2281,37,Male,Porbandar,Cloud Computing,Beginner,3,17,2,55,In Progress,1,Free
+2282,24,Female,Patan,Artificial Intelligence,Intermediate,6,27,3,72,Completed,5,Free
+2283,37,Male,Patan,Cybersecurity,Beginner,3,12,1,69,In Progress,3,Free
+2284,26,Female,Surat,Cloud Computing,Advanced,17,94,11,97,In Progress,2,Free
+2285,18,Male,Bhavnagar,Web Development,Intermediate,5,28,2,64,In Progress,3,Free
+2286,25,Female,Ahmedabad,Data Science,Advanced,17,105,10,85,In Progress,1,Free
+2287,24,Female,Jamnagar,Data Science,Intermediate,11,62,3,76,In Progress,2,Paid
+2288,35,Female,Surat,Web Development,Beginner,4,18,2,73,In Progress,1,Free
+2289,25,Female,Rajkot,Web Development,Advanced,14,69,8,86,Completed,3,Free
+2290,18,Female,Jamnagar,Cloud Computing,Beginner,3,15,1,73,In Progress,2,Free
+2291,28,Female,Nadiad,Web Development,Beginner,4,28,1,72,Completed,5,Free
+2292,42,Male,Morbi,Cybersecurity,Beginner,7,55,4,51,Completed,3,Free
+2293,42,Female,Gandhinagar,Artificial Intelligence,Intermediate,10,72,4,82,Completed,3,Free
+2294,35,Male,Mehsana,Web Development,Intermediate,6,31,2,94,In Progress,1,Free
+2295,40,Female,Gandhinagar,Web Development,Beginner,7,55,7,87,Completed,3,Free
+2296,27,Male,Morbi,Cybersecurity,Advanced,14,60,3,92,In Progress,2,Free
+2297,20,Female,Jamnagar,Data Science,Beginner,3,19,2,55,In Progress,2,Paid
+2298,24,Female,Rajkot,Data Science,Beginner,5,34,4,74,In Progress,4,Free
+2299,33,Male,Gandhinagar,Cloud Computing,Beginner,4,22,2,75,Completed,3,Free
+2300,43,Female,Patan,Cybersecurity,Beginner,5,39,2,67,In Progress,3,Paid
+2301,33,Female,Gandhinagar,Artificial Intelligence,Intermediate,11,70,9,85,In Progress,1,Free
+2302,42,Female,Nadiad,Artificial Intelligence,Intermediate,9,49,3,93,In Progress,3,Paid
+2303,37,Male,Porbandar,Cybersecurity,Intermediate,6,41,5,63,Completed,3,Free
+2304,34,Female,Ahmedabad,Artificial Intelligence,Beginner,6,27,3,61,In Progress,4,Free
+2305,19,Male,Rajkot,Data Science,Beginner,5,35,2,76,Completed,5,Free
+2306,18,Female,Rajkot,Artificial Intelligence,Beginner,4,25,2,72,Completed,3,Free
+2307,33,Female,Junagadh,Artificial Intelligence,Advanced,17,104,15,100,In Progress,3,Paid
+2308,29,Male,Porbandar,Cybersecurity,Beginner,3,12,1,71,In Progress,4,Free
+2309,22,Female,Porbandar,Cybersecurity,Intermediate,10,64,5,74,In Progress,1,Paid
+2310,22,Female,Morbi,Artificial Intelligence,Advanced,15,97,6,94,In Progress,1,Free
+2311,44,Male,Junagadh,Web Development,Intermediate,7,55,3,62,In Progress,3,Free
+2312,40,Female,Patan,Cybersecurity,Advanced,9,47,5,75,In Progress,2,Free
+2313,26,Male,Morbi,Cloud Computing,Beginner,5,35,2,75,Completed,5,Free
+2314,26,Male,Vapi,Cloud Computing,Intermediate,9,36,3,74,In Progress,4,Free
+2315,20,Male,Gandhinagar,Data Science,Intermediate,7,31,2,98,Completed,4,Paid
+2316,36,Female,Morbi,Artificial Intelligence,Intermediate,6,32,4,53,In Progress,1,Paid
+2317,33,Male,Bhavnagar,Web Development,Beginner,6,32,4,66,In Progress,3,Free
+2318,33,Male,Junagadh,Data Science,Beginner,3,20,1,56,Completed,5,Paid
+2319,20,Female,Gandhinagar,Artificial Intelligence,Beginner,6,43,2,64,In Progress,4,Paid
+2320,37,Male,Vapi,Cybersecurity,Intermediate,9,49,5,71,In Progress,3,Paid
+2321,41,Female,Anand,Cloud Computing,Advanced,13,74,7,72,Completed,4,Free
+2322,39,Female,Vadodara,Web Development,Intermediate,5,28,4,77,In Progress,2,Paid
+2323,41,Female,Vadodara,Cloud Computing,Beginner,7,47,3,68,In Progress,1,Free
+2324,18,Female,Rajkot,Cybersecurity,Advanced,9,39,4,79,In Progress,2,Paid
+2325,41,Male,Bhavnagar,Artificial Intelligence,Beginner,3,19,2,61,In Progress,2,Free
+2326,37,Male,Nadiad,Cybersecurity,Beginner,7,32,3,67,In Progress,1,Free
+2327,28,Male,Ahmedabad,Cybersecurity,Beginner,4,20,2,84,In Progress,3,Paid
+2328,34,Male,Vapi,Cloud Computing,Intermediate,8,35,3,85,Completed,5,Free
+2329,25,Male,Vapi,Web Development,Beginner,4,20,1,49,Completed,3,Paid
+2330,21,Female,Junagadh,Cybersecurity,Intermediate,11,78,5,62,In Progress,3,Paid
+2331,23,Male,Anand,Cloud Computing,Advanced,10,63,4,90,In Progress,2,Paid
+2332,25,Male,Gandhinagar,Web Development,Beginner,4,25,1,62,In Progress,1,Free
+2333,37,Male,Vapi,Artificial Intelligence,Intermediate,6,37,5,55,In Progress,1,Paid
+2334,20,Female,Vapi,Artificial Intelligence,Beginner,5,38,4,80,Completed,3,Free
+2335,33,Female,Bhavnagar,Data Science,Beginner,7,40,4,75,Completed,5,Free
+2336,42,Male,Porbandar,Cloud Computing,Intermediate,9,40,5,80,In Progress,1,Paid
+2337,20,Female,Porbandar,Web Development,Beginner,4,18,2,76,Completed,3,Free
+2338,42,Male,Rajkot,Cybersecurity,Intermediate,7,52,3,60,Completed,3,Free
+2339,35,Male,Mehsana,Artificial Intelligence,Intermediate,7,46,6,57,Completed,5,Paid
+2340,31,Female,Junagadh,Web Development,Intermediate,11,86,9,97,Completed,4,Free
+2341,35,Female,Bhavnagar,Cloud Computing,Intermediate,10,65,8,65,In Progress,4,Free
+2342,19,Male,Junagadh,Data Science,Intermediate,8,54,4,63,Completed,3,Paid
+2343,39,Male,Mehsana,Artificial Intelligence,Intermediate,9,44,2,67,In Progress,4,Free
+2344,20,Female,Ahmedabad,Web Development,Intermediate,10,50,3,100,In Progress,4,Paid
+2345,33,Male,Ahmedabad,Web Development,Beginner,3,16,2,70,In Progress,2,Paid
+2346,26,Female,Nadiad,Web Development,Beginner,7,37,2,83,Completed,5,Paid
+2347,21,Male,Porbandar,Cloud Computing,Advanced,12,66,6,85,In Progress,3,Paid
+2348,18,Female,Patan,Cloud Computing,Intermediate,8,33,2,69,In Progress,4,Free
+2349,21,Male,Vadodara,Cloud Computing,Beginner,3,22,1,72,In Progress,4,Free
+2350,18,Male,Porbandar,Cybersecurity,Intermediate,8,56,5,60,In Progress,3,Paid
+2351,31,Female,Morbi,Web Development,Beginner,3,13,1,55,Completed,5,Paid
+2352,38,Male,Surat,Artificial Intelligence,Advanced,17,132,11,100,Completed,4,Free
+2353,33,Male,Surat,Cloud Computing,Beginner,3,21,1,52,In Progress,1,Free
+2354,37,Female,Junagadh,Cloud Computing,Beginner,6,38,5,70,Completed,5,Free
+2355,41,Male,Mehsana,Web Development,Beginner,7,48,6,72,In Progress,4,Free
+2356,25,Male,Nadiad,Cloud Computing,Intermediate,5,25,2,64,Completed,5,Paid
+2357,24,Male,Surat,Cybersecurity,Advanced,8,53,4,56,In Progress,2,Free
+2358,20,Female,Morbi,Cybersecurity,Beginner,5,28,1,63,In Progress,4,Paid
+2359,34,Female,Rajkot,Cloud Computing,Advanced,15,116,14,81,Completed,4,Paid
+2360,18,Female,Surat,Web Development,Beginner,4,29,3,69,In Progress,3,Free
+2361,33,Male,Jamnagar,Web Development,Advanced,11,58,7,83,In Progress,1,Paid
+2362,29,Male,Gandhinagar,Web Development,Beginner,4,28,2,71,In Progress,1,Free
+2363,44,Male,Nadiad,Data Science,Beginner,7,43,5,67,In Progress,4,Free
+2364,36,Male,Rajkot,Cloud Computing,Intermediate,5,29,2,75,In Progress,3,Paid
+2365,39,Female,Vapi,Web Development,Advanced,8,60,3,60,In Progress,2,Paid
+2366,40,Male,Bhavnagar,Cybersecurity,Advanced,12,71,3,65,Completed,5,Paid
+2367,39,Male,Rajkot,Artificial Intelligence,Intermediate,10,64,7,56,Completed,5,Free
+2368,31,Male,Vadodara,Artificial Intelligence,Advanced,16,103,8,87,In Progress,2,Free
+2369,23,Female,Bhavnagar,Web Development,Beginner,3,14,1,58,Completed,5,Paid
+2370,23,Male,Porbandar,Artificial Intelligence,Advanced,16,115,6,99,In Progress,3,Free
+2371,30,Male,Anand,Artificial Intelligence,Intermediate,8,47,3,69,In Progress,3,Free
+2372,36,Male,Gandhinagar,Data Science,Intermediate,8,56,4,78,Completed,4,Free
+2373,39,Male,Gandhinagar,Cybersecurity,Advanced,17,119,9,100,Completed,3,Paid
+2374,25,Male,Gandhinagar,Cybersecurity,Intermediate,9,43,5,71,In Progress,1,Free
+2375,44,Female,Mehsana,Data Science,Intermediate,9,36,1,80,In Progress,4,Paid
+2376,44,Male,Gandhinagar,Data Science,Intermediate,9,59,5,88,Completed,4,Paid
+2377,19,Male,Junagadh,Artificial Intelligence,Advanced,13,79,8,73,Completed,3,Free
+2378,38,Male,Gandhinagar,Cloud Computing,Beginner,5,36,2,70,In Progress,3,Free
+2379,18,Male,Morbi,Artificial Intelligence,Advanced,9,53,6,71,In Progress,1,Free
+2380,32,Male,Porbandar,Data Science,Intermediate,5,36,3,58,In Progress,3,Paid
+2381,18,Male,Gandhinagar,Cybersecurity,Beginner,6,34,3,56,In Progress,4,Free
+2382,22,Male,Patan,Artificial Intelligence,Intermediate,8,53,5,64,Completed,3,Free
+2383,33,Male,Porbandar,Cloud Computing,Intermediate,7,35,2,74,In Progress,2,Free
+2384,36,Male,Gandhinagar,Artificial Intelligence,Intermediate,8,43,5,59,Completed,3,Paid
+2385,21,Male,Mehsana,Web Development,Intermediate,9,67,6,72,In Progress,1,Free
+2386,20,Female,Nadiad,Artificial Intelligence,Beginner,7,50,6,82,In Progress,1,Paid
+2387,34,Female,Junagadh,Data Science,Intermediate,7,29,4,78,In Progress,4,Paid
+2388,34,Female,Mehsana,Cybersecurity,Advanced,17,68,4,88,In Progress,2,Free
+2389,29,Female,Ahmedabad,Cybersecurity,Beginner,5,25,1,86,Completed,3,Paid
+2390,31,Male,Rajkot,Data Science,Intermediate,6,33,1,90,In Progress,2,Free
+2391,38,Female,Patan,Web Development,Beginner,3,19,1,66,Completed,5,Paid
+2392,23,Female,Patan,Data Science,Intermediate,6,33,3,47,In Progress,1,Paid
+2393,20,Male,Rajkot,Artificial Intelligence,Intermediate,5,37,5,78,Completed,4,Paid
+2394,26,Female,Bhavnagar,Data Science,Intermediate,5,27,1,47,In Progress,2,Free
+2395,22,Female,Nadiad,Data Science,Beginner,4,18,1,82,In Progress,4,Free
+2396,41,Male,Jamnagar,Web Development,Intermediate,7,46,4,84,Completed,3,Free
+2397,34,Male,Rajkot,Artificial Intelligence,Beginner,7,36,3,91,In Progress,3,Free
+2398,31,Male,Vapi,Cloud Computing,Beginner,7,51,7,76,In Progress,2,Free
+2399,38,Female,Surat,Cloud Computing,Beginner,3,13,1,62,In Progress,1,Free
+2400,20,Female,Jamnagar,Cybersecurity,Beginner,3,20,2,61,Completed,5,Free
+2401,18,Male,Vapi,Data Science,Intermediate,7,48,2,68,Completed,4,Free
+2402,37,Male,Gandhinagar,Cybersecurity,Intermediate,8,35,4,85,Completed,4,Paid
+2403,38,Female,Vapi,Web Development,Intermediate,6,46,4,79,In Progress,3,Free
+2404,40,Male,Gandhinagar,Cloud Computing,Beginner,3,14,1,67,In Progress,3,Free
+2405,18,Female,Junagadh,Data Science,Advanced,17,105,12,86,Completed,3,Free
+2406,20,Male,Jamnagar,Web Development,Intermediate,7,55,6,100,In Progress,1,Free
+2407,35,Male,Surat,Web Development,Beginner,4,20,1,77,In Progress,4,Paid
+2408,42,Female,Vapi,Data Science,Advanced,9,46,5,62,Completed,4,Free
+2409,27,Male,Junagadh,Web Development,Advanced,8,33,2,70,In Progress,3,Paid
+2410,39,Male,Morbi,Data Science,Beginner,5,32,3,79,Completed,5,Paid
+2411,43,Male,Mehsana,Data Science,Beginner,5,32,3,62,Completed,5,Paid
+2412,20,Female,Porbandar,Artificial Intelligence,Advanced,13,74,5,89,In Progress,2,Paid
+2413,25,Male,Porbandar,Cybersecurity,Intermediate,9,66,5,87,Completed,5,Paid
+2414,31,Male,Bhavnagar,Web Development,Beginner,7,48,4,40,In Progress,3,Paid
+2415,41,Male,Jamnagar,Web Development,Intermediate,11,64,4,80,In Progress,4,Paid
+2416,35,Male,Nadiad,Artificial Intelligence,Advanced,16,102,12,91,Completed,4,Free
+2417,32,Male,Gandhinagar,Artificial Intelligence,Intermediate,5,28,1,65,In Progress,1,Paid
+2418,39,Male,Porbandar,Artificial Intelligence,Intermediate,8,55,3,79,In Progress,4,Free
+2419,40,Female,Gandhinagar,Cloud Computing,Advanced,12,85,4,90,In Progress,4,Paid
+2420,19,Female,Vadodara,Cloud Computing,Beginner,4,30,2,69,In Progress,1,Free
+2421,44,Male,Mehsana,Cloud Computing,Beginner,5,28,3,66,In Progress,4,Free
+2422,27,Female,Mehsana,Data Science,Intermediate,5,37,3,76,In Progress,2,Free
+2423,19,Female,Porbandar,Web Development,Advanced,15,92,8,90,Completed,5,Free
+2424,43,Male,Junagadh,Cybersecurity,Beginner,5,37,3,67,Completed,4,Free
+2425,34,Female,Ahmedabad,Data Science,Intermediate,7,47,4,60,Completed,3,Free
+2426,25,Female,Ahmedabad,Web Development,Intermediate,8,52,2,60,Completed,3,Free
+2427,18,Female,Junagadh,Web Development,Intermediate,9,56,6,64,In Progress,4,Free
+2428,26,Female,Vapi,Artificial Intelligence,Intermediate,5,32,1,72,In Progress,2,Paid
+2429,28,Female,Vapi,Artificial Intelligence,Advanced,10,77,7,79,In Progress,2,Free
+2430,39,Female,Nadiad,Data Science,Intermediate,5,32,2,55,In Progress,1,Free
+2431,33,Female,Anand,Artificial Intelligence,Intermediate,6,37,4,78,In Progress,2,Paid
+2432,24,Female,Junagadh,Web Development,Beginner,6,39,3,85,Completed,3,Free
+2433,27,Male,Nadiad,Artificial Intelligence,Intermediate,6,37,3,66,In Progress,2,Free
+2434,40,Male,Bhavnagar,Cloud Computing,Beginner,3,17,2,48,In Progress,2,Paid
+2435,43,Female,Gandhinagar,Artificial Intelligence,Beginner,3,13,1,58,In Progress,2,Paid
+2436,20,Female,Surat,Web Development,Intermediate,9,52,5,86,Completed,3,Free
+2437,35,Male,Anand,Data Science,Beginner,5,29,3,75,In Progress,4,Free
+2438,42,Female,Jamnagar,Cybersecurity,Beginner,5,25,1,60,In Progress,2,Paid
+2439,41,Female,Patan,Artificial Intelligence,Intermediate,6,42,3,87,In Progress,1,Paid
+2440,30,Male,Anand,Web Development,Beginner,6,45,3,85,In Progress,1,Free
+2441,43,Male,Surat,Cybersecurity,Beginner,5,38,2,62,In Progress,2,Paid
+2442,24,Male,Vadodara,Cybersecurity,Intermediate,9,57,3,70,Completed,4,Free
+2443,42,Female,Mehsana,Cloud Computing,Intermediate,6,42,6,66,In Progress,4,Free
+2444,21,Female,Gandhinagar,Cybersecurity,Beginner,4,28,1,62,In Progress,1,Free
+2445,30,Male,Ahmedabad,Web Development,Advanced,13,63,6,95,In Progress,1,Paid
+2446,37,Male,Vapi,Web Development,Intermediate,9,57,8,82,In Progress,3,Free
+2447,18,Female,Nadiad,Artificial Intelligence,Intermediate,8,35,2,84,Completed,3,Paid
+2448,25,Male,Vapi,Artificial Intelligence,Intermediate,9,71,9,84,Completed,5,Free
+2449,31,Female,Vapi,Artificial Intelligence,Advanced,12,66,4,100,In Progress,3,Free
+2450,33,Female,Vapi,Cybersecurity,Intermediate,9,43,4,67,In Progress,3,Free
+2451,31,Male,Junagadh,Cybersecurity,Intermediate,5,28,3,73,In Progress,2,Paid
+2452,29,Male,Junagadh,Cloud Computing,Intermediate,6,29,3,50,Completed,4,Free
+2453,36,Female,Patan,Artificial Intelligence,Beginner,7,46,4,60,In Progress,1,Free
+2454,40,Male,Ahmedabad,Data Science,Beginner,7,29,4,73,In Progress,3,Paid
+2455,32,Male,Anand,Cloud Computing,Intermediate,7,50,6,78,In Progress,4,Free
+2456,19,Male,Gandhinagar,Data Science,Intermediate,6,28,2,70,Completed,4,Paid
+2457,19,Male,Rajkot,Cybersecurity,Intermediate,7,51,5,68,In Progress,4,Free
+2458,40,Female,Nadiad,Cloud Computing,Beginner,4,31,4,64,In Progress,4,Paid
+2459,39,Female,Morbi,Cloud Computing,Intermediate,7,37,4,87,Completed,4,Free
+2460,36,Female,Bhavnagar,Web Development,Beginner,7,36,4,70,In Progress,2,Paid
+2461,42,Female,Surat,Cybersecurity,Intermediate,9,48,4,95,In Progress,2,Free
+2462,43,Male,Patan,Cybersecurity,Intermediate,5,22,1,77,In Progress,2,Free
+2463,39,Male,Anand,Cloud Computing,Intermediate,10,77,8,84,Completed,5,Free
+2464,43,Female,Vapi,Cybersecurity,Intermediate,7,44,6,62,Completed,5,Free
+2465,43,Female,Mehsana,Cloud Computing,Intermediate,8,51,3,85,Completed,5,Free
+2466,39,Male,Mehsana,Web Development,Beginner,3,21,2,61,In Progress,3,Paid
+2467,34,Female,Jamnagar,Cloud Computing,Intermediate,7,37,4,62,Completed,3,Free
+2468,37,Female,Vadodara,Cybersecurity,Beginner,5,22,1,75,In Progress,3,Paid
+2469,27,Male,Mehsana,Cybersecurity,Intermediate,5,34,3,56,In Progress,2,Paid
+2470,23,Female,Junagadh,Cloud Computing,Intermediate,9,68,5,70,In Progress,4,Paid
+2471,32,Male,Anand,Cloud Computing,Intermediate,7,41,2,73,In Progress,3,Free
+2472,39,Male,Vadodara,Cloud Computing,Intermediate,9,55,6,100,In Progress,1,Free
+2473,28,Female,Surat,Artificial Intelligence,Advanced,16,108,11,85,In Progress,2,Paid
+2474,22,Male,Junagadh,Cybersecurity,Advanced,12,62,7,79,In Progress,4,Paid
+2475,18,Female,Junagadh,Cybersecurity,Beginner,4,22,1,75,In Progress,4,Free
+2476,25,Male,Rajkot,Artificial Intelligence,Beginner,6,46,3,59,Completed,5,Free
+2477,38,Female,Morbi,Cloud Computing,Beginner,5,26,3,74,In Progress,4,Free
+2478,29,Female,Anand,Web Development,Beginner,6,39,3,84,In Progress,3,Paid
+2479,29,Female,Porbandar,Cloud Computing,Intermediate,11,76,10,78,In Progress,3,Free
+2480,22,Male,Gandhinagar,Cloud Computing,Advanced,12,73,4,94,In Progress,2,Free
+2481,24,Male,Patan,Artificial Intelligence,Beginner,5,21,2,72,In Progress,2,Paid
+2482,21,Female,Patan,Cybersecurity,Beginner,7,48,5,66,In Progress,1,Free
+2483,23,Male,Ahmedabad,Cloud Computing,Beginner,4,25,3,66,Completed,4,Free
+2484,30,Female,Ahmedabad,Cybersecurity,Intermediate,5,27,1,66,In Progress,2,Paid
+2485,37,Female,Bhavnagar,Data Science,Intermediate,7,30,3,73,In Progress,3,Paid
+2486,32,Male,Jamnagar,Cybersecurity,Beginner,4,29,2,69,In Progress,2,Free
+2487,20,Female,Vadodara,Web Development,Advanced,17,125,7,99,Completed,5,Free
+2488,40,Male,Patan,Web Development,Intermediate,7,46,2,79,Completed,5,Free
+2489,25,Female,Anand,Cloud Computing,Beginner,7,44,2,49,In Progress,2,Free
+2490,37,Male,Mehsana,Cybersecurity,Intermediate,10,56,3,79,In Progress,1,Paid
+2491,33,Female,Nadiad,Cloud Computing,Intermediate,11,47,4,66,In Progress,1,Free
+2492,30,Female,Porbandar,Artificial Intelligence,Beginner,4,19,2,65,In Progress,4,Free
+2493,35,Male,Vapi,Web Development,Beginner,6,37,2,70,In Progress,4,Free
+2494,27,Female,Jamnagar,Cloud Computing,Beginner,4,24,3,77,Completed,4,Free
+2495,36,Female,Rajkot,Artificial Intelligence,Beginner,7,47,5,73,In Progress,1,Free
+2496,34,Male,Mehsana,Cloud Computing,Advanced,14,83,8,90,In Progress,3,Paid
+2497,41,Female,Junagadh,Cybersecurity,Advanced,9,44,6,85,Completed,5,Free
+2498,36,Male,Gandhinagar,Cybersecurity,Beginner,7,35,2,86,Completed,4,Paid
+2499,43,Female,Anand,Cybersecurity,Beginner,5,37,2,68,Completed,3,Paid
+2500,40,Male,Patan,Cybersecurity,Beginner,3,17,2,66,Completed,3,Free
